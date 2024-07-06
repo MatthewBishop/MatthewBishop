@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MatthewBishop)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DNauss)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FugiRS)](https://git.io/streak-stats)
+
 <!--
 **MatthewBishop/MatthewBishop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
